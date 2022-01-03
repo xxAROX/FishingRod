@@ -1,8 +1,0 @@
-name: "FishingRod"
-author: "xxAROX"
-website: "https://github.com/xxAROX/"
-version: "1.0"
-description: "FishingRod plugin by xxAROX."
-
-api: [ "3.0.0" ]
-main: xxAROX\FishingRod\Main
